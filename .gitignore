@@ -1,0 +1,8 @@
+.git/
+.gradle/
+.idea/
+build/
+gradlew
+gradlew.bat
+groovy-demo.iml
+gradle/
